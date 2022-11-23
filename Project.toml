@@ -1,0 +1,11 @@
+name = "JuliaAi"
+uuid = "1697df5b-6a91-48c4-a127-17368226de99"
+authors = ["Martin Reinhardt <martin.reinhardt.87@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
