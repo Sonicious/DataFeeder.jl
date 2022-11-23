@@ -1,6 +1,6 @@
-name = "JuliaAi"
+name = "DataFeeder.jl"
 uuid = "1697df5b-6a91-48c4-a127-17368226de99"
-authors = ["Martin Reinhardt <martin.reinhardt.87@gmail.com>"]
+authors = ["Martin Reinhardt <martin.reinhardt.3@uni-leipzig.de>"]
 version = "0.1.0"
 
 [deps]
